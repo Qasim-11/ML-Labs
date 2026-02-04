@@ -25,4 +25,4 @@ pip install pandas numpy matplotlib scikit-learn plotly
 
 ## 📊 Results
 
-By reducing the data to 50 principal components and applying GMM, the model successfully separates distinct digits into 10 clusters. While unsupervised models occasionally mix up similar digits (like 7s and 9s), the resulting "cluster templates" clearly represent the structure of the MNIST dataset.
+By reducing the data to 196 principal components and applying GMM, the model successfully separates distinct digits into 10 clusters. While unsupervised models occasionally mix up similar digits (like 7s and 9s), the resulting "cluster templates" clearly represent the structure of the MNIST dataset.
